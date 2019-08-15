@@ -7,6 +7,9 @@
 require_relative '../grocer.rb'
 
 
+require 'pry'
+
+
 RSpec.configure do |config|
   # config here
 end
